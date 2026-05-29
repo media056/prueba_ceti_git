@@ -7,5 +7,6 @@ include_directories(include)
 
 add_executable(superheroes_poo
         src/main.cpp
+        include/Superheroe.h
 
 )
